@@ -1,9 +1,9 @@
 /**
  * Class decription
  *
- * @author Justin Kim
+ * @author Ben Yu
  * Fall 2023, ITP 265, Coffee
- * Email; jkim8918@usc.edu
+ * Email; bzyu@usc.edu
  * Date Created: 11/7/23
  */
 public enum VampireForm {
